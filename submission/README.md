@@ -1,5 +1,4 @@
-# Add-Your-Team-Name-Here
-Delta-G
+### Delta-G
 
 Our team is from ALL OVER THE WORLD and we think proteins are cool 🙌
 
