@@ -1,6 +1,7 @@
 # Add-Your-Team-Name-Here
 Delta-G
-Our team is from ... and we think proteins are cool 🙌
+
+Our team is from ALL OVER THE WORLD and we think proteins are cool 🙌
 
 ### Project Description
 We are working on the `optimal-ph` challenge.
